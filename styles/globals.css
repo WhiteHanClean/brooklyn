@@ -12,3 +12,11 @@ p{
   padding: 0;
 }
 
+@font-face {
+  font-family: "Sweet Mavka Script";
+  src: local("Sweet Mavka Script"),
+    url("../public/Sweetmavkascript.woff2") format("woff2"),
+    url("../public/Sweetmavkascript.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
