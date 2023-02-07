@@ -17,6 +17,7 @@ const Location = () => {
                             referrerpolicy="no-referrer-when-downgrade">
                         </iframe>
                     </div>
+                    <h2>Улица Медерова 44 / Жукеева Пудовкина</h2>
                 </div>
             </div>
         </>
